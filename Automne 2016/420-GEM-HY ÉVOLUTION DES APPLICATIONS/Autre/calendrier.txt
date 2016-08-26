@@ -1,0 +1,36 @@
+﻿Itération #1:
+	Début: 9 sept	
+Fin: 30 sept en début de cours (rapport d'itération #1 à remettre)
+
+
+Itération #2:
+	Début: 30 sept	
+Fin: 28 oct en début de cours (rapport d'itération #2 à remettre)
+
+
+Itération #3:	
+Début: 28 oct	
+Fin: 18 nov en début de cours (rapport d'itération #3 à remettre)
+
+
+Itération #4:	
+Début: 18 nov	
+Fin: 9 dec en début de cours (rapport d'itération #4 à remettre)
+
+
+
+Autres remises importantes:	
+
+9 sept: analyse préliminaire
+
+28 oct: plan de test
+
+9 dec: remise du projet final et démontration
+
+
+
+Chaque itération dure 3 semaines
+
+Une itération se termine au début du cours
+
+L'itération suivante commence immédiatement ensuite
