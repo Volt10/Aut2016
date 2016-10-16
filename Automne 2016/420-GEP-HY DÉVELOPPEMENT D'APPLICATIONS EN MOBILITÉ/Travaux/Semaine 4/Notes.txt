@@ -1,0 +1,13 @@
+Ou placer la réponse?
+En bas de l'application en gros format.
+
+Doit-on mettre de la couleur?
+Oui
+
+Doit-on mettre une couleur spécifique?
+Pas rouge
+Idéalement vert
+
+Ou prend t'on le taux de change?
+On hardcode le taux d'hier (14 Sept)
+1US = 1.32 CAD

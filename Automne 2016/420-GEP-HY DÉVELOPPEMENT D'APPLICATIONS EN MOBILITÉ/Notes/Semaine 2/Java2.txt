@@ -1,0 +1,6 @@
+JDK = Java Development kit
+	Inclus le JRE
+
+JRE = Java runtime environment
+
+JAR = Java Archive - Zip mais avec manifest (librairie Java)

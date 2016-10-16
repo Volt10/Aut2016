@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pendu1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pendu.jar!/pendu" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
